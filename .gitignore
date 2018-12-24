@@ -1,0 +1,10 @@
+/target/
+
+/test-output/
+*.avi
+.classpath
+.project
+.settings/
+.allure
+.idea
+/allure-results/
